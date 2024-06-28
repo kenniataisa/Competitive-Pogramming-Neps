@@ -2,3 +2,5 @@ ID: 14325235
 cpf: 23435353523
 idade: 89
 peso: 200 kg
+cidade: paracuru
+estado: ceará
